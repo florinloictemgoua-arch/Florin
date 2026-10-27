@@ -1,0 +1,19 @@
+Feature,Q1,Q3,IQR,Lower Bound,Upper Bound,Outlier Count,Outlier Percentage
+Curricular units 2nd sem (grade),10.75,13.33333333,2.5833333300000003,6.8750000049999995,17.208333325,877,19.82
+Curricular units 1st sem (grade),11.0,13.4,2.4000000000000004,7.3999999999999995,17.0,726,16.41
+Curricular units 1st sem (credited),0.0,0.0,0.0,0.0,0.0,577,13.04
+Curricular units 2nd sem (credited),0.0,0.0,0.0,0.0,0.0,530,11.98
+Age at enrollment,19.0,25.0,6.0,10.0,34.0,441,9.97
+Curricular units 1st sem (enrolled),5.0,7.0,2.0,2.0,10.0,424,9.58
+Curricular units 2nd sem (enrolled),5.0,7.0,2.0,2.0,10.0,369,8.34
+Curricular units 1st sem (without evaluations),0.0,0.0,0.0,0.0,0.0,294,6.65
+Curricular units 2nd sem (without evaluations),0.0,0.0,0.0,0.0,0.0,282,6.37
+Curricular units 1st sem (approved),3.0,6.0,3.0,-1.5,10.5,180,4.07
+Previous qualification (grade),125.0,140.0,15.0,102.5,162.5,179,4.05
+Curricular units 1st sem (evaluations),6.0,10.0,4.0,0.0,16.0,158,3.57
+Curricular units 2nd sem (evaluations),6.0,10.0,4.0,0.0,16.0,109,2.46
+Admission grade,117.9,134.8,16.900000000000006,92.55,160.15000000000003,86,1.94
+Curricular units 2nd sem (approved),2.0,6.0,4.0,-4.0,12.0,44,0.99
+Unemployment rate,9.4,13.9,4.5,2.6500000000000004,20.65,0,0.0
+Inflation rate,0.3,2.6,2.3000000000000003,-3.1500000000000004,6.050000000000001,0,0.0
+GDP,-1.7,1.79,3.49,-6.9350000000000005,7.025,0,0.0
